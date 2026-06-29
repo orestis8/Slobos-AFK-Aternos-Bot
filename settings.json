@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Orbital8-oGKP.aternos.me:58731",
+    "ip": "Orbital8-oGKP.aternos.me",
     "port": 58731,
     "version": "1.21.11",
     "try-creative": false
